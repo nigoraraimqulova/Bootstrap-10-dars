@@ -1,0 +1,75 @@
+.from{
+    position: relative;
+    margin-left: 350px;
+    bottom: 70px;
+}
+.from01{
+    position: relative;
+    margin-right: 350px;
+}
+.from02{
+    position: relative;
+    bottom: 60px;
+}
+.from1{
+    position: relative;
+    margin-right: 500px;
+    bottom: 60px;
+}
+.from2{
+    position: relative;
+    margin-left: 200px;
+    margin-right: 240px;
+    bottom: 98px;
+}
+.from3{
+    position: relative;
+    margin-left: 460px;
+    bottom: 135px;
+}
+.from4{
+    position: relative;
+    margin-right: 500px;
+    bottom: 130px;
+}
+.from5{
+    position: relative;
+    margin-right: 240px;
+    margin-left: 200px;
+    bottom: 161px;
+}
+.from6{
+    position: relative;
+    margin-left: 460px;
+    bottom: 195px;
+}
+.p{
+    position: relative;
+    bottom: 180px;
+}
+h06{
+    position: relative;
+    bottom: 180px;
+}
+.btn{
+    position: relative;
+    bottom: 100px;
+    left: 260px;
+}
+h05{
+    position: relative;
+    bottom: 50px;
+    left: 210px;
+}
+h4{
+    position: relative;
+    left: 260px;
+}
+.h6{
+    position: relative;
+    left: 250px;
+}
+h1{
+    position: relative;
+    left: 250px;
+}
